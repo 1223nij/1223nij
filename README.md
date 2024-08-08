@@ -1,22 +1,4 @@
-### Hi there 👋
 
-Im **1223nij**!
-
-Things I like:
-- Instant Noodles
-- MySQL
-- PHP
-- Python
-- and more...
-
-Things I **despise**:
-- Durian
-- PostgreSQL
-- JavaScript
-- Java
-- and more...
-
-<!--
 **1223nij/1223nij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
