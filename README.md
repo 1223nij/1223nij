@@ -78,14 +78,14 @@ I made several Hackintoshes
   + Used Opencore Bootloader
   + Issues:
     - Audio not working
-    - Boardcom (ew) wifi card is not supported so I bought a TP-Link Archer T3U
+    - Broadcom (ew) wifi card is not supported so I bought a TP-Link Archer T3U
 - Hackintoshed my own setup (specs above):
   + Used to ran macOS 10.15 Catalina
   + Used Opencore Bootloader
   + Issues:
     - Audio not working
     - iGPU acceleration not working (have to force resolution manually with a sketchy app... also super slow)
-    - 
+    - Broadcom wifi card issue again...
 I've also jailbroken me and my brother's iPad (he does not enjoy it)
 - An iPad mini 2 (mine :<):
   + Running iOS 12.5.7
